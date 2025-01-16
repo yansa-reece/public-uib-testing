@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Default">23ac4ec7534b1210b862f301a0490e79</macroponent>
+        <name>context_data_json/content</name>
+        <preset/>
+        <required_translations>[]</required_translations>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+  const contextData = {...api.context};
+
+	return JSON.stringify(contextData, null, 2);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>reece.poulsen</sys_created_by>
+        <sys_created_on>2025-01-16 23:27:22</sys_created_on>
+        <sys_id>94c6d603538b1210b862f301a0490e76</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>context_data_json/content</sys_name>
+        <sys_package display_value="Public UIB Test" source="x_1170555_public">c06a4ec3534b1210b862f301a0490e30</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public UIB Test">c06a4ec3534b1210b862f301a0490e30</sys_scope>
+        <sys_update_name>sys_ux_client_script_94c6d603538b1210b862f301a0490e76</sys_update_name>
+        <sys_updated_by>reece.poulsen</sys_updated_by>
+        <sys_updated_on>2025-01-16 23:54:52</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>f03e0a4b534b1210b862f301a0490e7e</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="UXR Base Unified App">c4b650c2c702201072b211d4d8c260a4</parent_app>
+        <path>public-uib-test-portal</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>reece.poulsen</sys_created_by>
+        <sys_created_on>2025-01-16 21:50:15</sys_created_on>
+        <sys_id>383ece4b534b1210b862f301a0490e1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Public UIB Test (Portal)</sys_name>
+        <sys_package display_value="Public UIB Test" source="x_1170555_public">c06a4ec3534b1210b862f301a0490e30</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public UIB Test">c06a4ec3534b1210b862f301a0490e30</sys_scope>
+        <sys_update_name>sys_ux_page_registry_383ece4b534b1210b862f301a0490e1c</sys_update_name>
+        <sys_updated_by>reece.poulsen</sys_updated_by>
+        <sys_updated_on>2025-01-16 21:50:15</sys_updated_on>
+        <title>Public UIB Test (Portal)</title>
+    </sys_ux_page_registry>
+</record_update>

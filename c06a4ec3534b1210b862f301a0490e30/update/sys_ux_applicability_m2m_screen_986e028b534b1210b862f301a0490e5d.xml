@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">dd3b0e47534b1210b862f301a0490e32</applicability>
+        <order>0</order>
+        <screen display_value="Default">f33e028b534b1210b862f301a0490e8f</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>reece.poulsen</sys_created_by>
+        <sys_created_on>2025-01-16 21:51:02</sys_created_on>
+        <sys_id>986e028b534b1210b862f301a0490e5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Public UIB Test" source="x_1170555_public">c06a4ec3534b1210b862f301a0490e30</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public UIB Test">c06a4ec3534b1210b862f301a0490e30</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_986e028b534b1210b862f301a0490e5d</sys_update_name>
+        <sys_updated_by>reece.poulsen</sys_updated_by>
+        <sys_updated_on>2025-01-16 21:51:02</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

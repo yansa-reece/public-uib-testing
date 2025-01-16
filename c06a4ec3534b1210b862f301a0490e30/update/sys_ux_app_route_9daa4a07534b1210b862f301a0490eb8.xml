@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Public UIB Test">e68a0607534b1210b862f301a0490ef5</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Public Page</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>public-page</route_type>
+        <screen_type display_value="Public Page">4daa4a07534b1210b862f301a0490eb5</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>reece.poulsen</sys_created_by>
+        <sys_created_on>2025-01-16 21:34:43</sys_created_on>
+        <sys_id>9daa4a07534b1210b862f301a0490eb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Public Page</sys_name>
+        <sys_package display_value="Public UIB Test" source="x_1170555_public">c06a4ec3534b1210b862f301a0490e30</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public UIB Test">c06a4ec3534b1210b862f301a0490e30</sys_scope>
+        <sys_update_name>sys_ux_app_route_9daa4a07534b1210b862f301a0490eb8</sys_update_name>
+        <sys_updated_by>reece.poulsen</sys_updated_by>
+        <sys_updated_on>2025-01-16 21:34:43</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=9daa4a07534b1210b862f301a0490eb8"/>
+</record_update>

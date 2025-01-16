@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config/>
+        <screen display_value="Default">f44c86c7534b1210b862f301a0490e5c</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>reece.poulsen</sys_created_by>
+        <sys_created_on>2025-01-16 21:41:48</sys_created_on>
+        <sys_id>cd4c86c7534b1210b862f301a0490e5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Public UIB Test" source="x_1170555_public">c06a4ec3534b1210b862f301a0490e30</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public UIB Test">c06a4ec3534b1210b862f301a0490e30</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_cd4c86c7534b1210b862f301a0490e5f</sys_update_name>
+        <sys_updated_by>reece.poulsen</sys_updated_by>
+        <sys_updated_on>2025-01-16 21:41:48</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
